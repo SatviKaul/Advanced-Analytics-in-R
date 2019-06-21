@@ -6,6 +6,3 @@ Logical: Has utilisation ever fallen below 90%?   TRUE / FALSE
 Vector : All hours where utilisation is unknown (NA’s)
 Dataframe: For this machine
 Plot: For all machines
-
-R Programming - Advanced Training
-© Kirill Eremenko
