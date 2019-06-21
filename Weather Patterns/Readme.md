@@ -10,4 +10,3 @@ You are working on a project for a meteorology bureau. You have been supplied we
 
 5.A table showing in which months the annual maximums of each metric were observed in every city (Advanced)
 
-R Programming - Advanced Training© Kirill Eremenko
