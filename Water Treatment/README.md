@@ -1,0 +1,1 @@
+This data set consists of sensor activity measurement from an urban waster water treatment plant. Our task is to cluster the data based on an operational order such that the organization can understand more about its chances of failure. All the variables are numeric in nature.
