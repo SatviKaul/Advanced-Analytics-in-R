@@ -1,0 +1,90 @@
+State,District,Ranking of District within State,Classification,Remarks
+Assam,Darrang,18,NA,NA
+Assam,Nagaon,19,NA,NA
+Assam,Kokrajhar,20,NA,NA
+Assam,Hailakandi,21,NA,NA
+Assam,Dhubri,22,NA,NA
+Assam,Karimganj,23,NA,NA
+Bihar,Jamui,29,IAP,LWE
+Bihar,Saharsa,30,NA,NA
+Bihar,Purnia,31,NA,NA
+Bihar,Sitamarhi,32,IAP,NA
+Bihar,Sheohar,33,NA,NA
+Bihar,Purba Champaran,34,NA,NA
+Bihar,Araria,35,NA,NA
+Bihar,Katihar,36,NA,NA
+Bihar,Kishanganj,37,NA,NA
+Bihar,Gaya,22,IAP,LWE
+Chhattisgarh,Bilaspur,13,NA,NA
+Chhattisgarh,Dantewada,14,IAP,LWE and T
+Chhattisgarh,Bijapur,NA,IAP,LWE
+Chhattisgarh,Kawardha,15,IAP,T
+Chhattisgarh,Surguja,16,IAP,LWE and T
+Jharkhand,Paschimi Singhbhum,15,IAP,LWE and T
+Jharkhand,Saraikela-Kharsawan,NA,IAP,NA
+Jharkhand,Godda,16,NA,NA
+Jharkhand,Sahibganj,17,NA,NA
+Jharkhand,Pakaur,18,NA,NA
+Jharkhand,Palamu,11,IAP,LWE
+Jharkhand,Latehar,NA,IAP,NA
+Jharkhand,Lohardaga,12,IAP,LWE and T
+Jharkhand,Gumla,14,IAP,LWE and T
+Jharkhand,Simdega,NA,IAP,NA
+Jharkhand,Dumka,13,ITDP,NA
+Madhya Pradesh,Raisen,35,NA,NA
+Madhya Pradesh,Tikamgarh,36,NA,NA
+Madhya Pradesh,Sidhi,37,IAP,NA
+Madhya Pradesh,Singrauli,NA,IAP,NA
+Madhya Pradesh,Satna,38,NA,NA
+Madhya Pradesh,Damoh,39,NA,NA
+Madhya Pradesh,Satna,40,NA,NA
+Madhya Pradesh,Dindori,41,IAP,T
+Madhya Pradesh,Shahdol,42,IAP,NA
+Madhya Pradesh,Anuppur,NA,IAP,NA
+Madhya Pradesh,Umaria,43,IAP,NA
+Madhya Pradesh,Chhatarpur,44,NA,NA
+Madhya Pradesh,Panna,45,NA,NA
+Madhya Pradesh,Barwani,30,NA,T
+Madhya Pradesh,Mandla,32,IAP,T
+Madhya Pradesh,Jhabua,33,NA,T
+Madhya Pradesh,Guna,NA,NA,NA
+Odisha,Nuapada,24,IAP,NA
+Odisha,Koraput,25,IAP,NA
+Odisha,Rayagada,26,IAP,LWE and T
+Odisha,Nabarangapur,27,IAP,T
+Odisha,Malkangiri,28,IAP,LWE and T
+Odisha,Kandhamal,29,IAP,T
+Odisha,Baudh,30,NA,NA
+Odisha,Balangir,22,IAP,LWE and T
+Rajasthan,Chittaurgarh,25,NA,NA
+Rajasthan,Karauli,26,NA,NA
+Rajasthan,Jaisalmer,27,NA,NA
+Rajasthan,Udaipur,28,NA,NA
+Rajasthan,Rajsamand,29,NA,NA
+Rajasthan,Dhaulpur,30,NA,NA
+Rajasthan,Jalor,31,NA,NA
+Rajasthan,Barmer,32,NA,NA
+Rajasthan,Banswara,19,NA,T
+Rajasthan,Dungarpur,24,NA,T
+Uttar Pradesh,Faizabad,54,NA,NA
+Uttar Pradesh,Sant Kabir Nagar,55,NA,NA
+Uttar Pradesh,Hardoi,56,NA,NA
+Uttar Pradesh,Barabanki,57,NA,NA
+Uttar Pradesh,Pilibhit,58,NA,NA
+Uttar Pradesh,Kheri,59,NA,NA
+Uttar Pradesh,Sitapur,60,NA,NA
+Uttar Pradesh,Bareilly,61,NA,NA
+Uttar Pradesh,Gonda,62,NA,NA
+Uttar Pradesh,Kaushambi,63,NA,NA
+Uttar Pradesh,Etah,64,NA,NA
+Uttar Pradesh,Kanshiram Nagar,NA,NA,NA
+Uttar Pradesh,Shahjahanpur,65,NA,NA
+Uttar Pradesh,Siddhartha Nagar,66,NA,NA
+Uttar Pradesh,Bahraich,67,NA,NA
+Uttar Pradesh,Budaun,68,NA,NA
+Uttar Pradesh,Balrampur,69,NA,NA
+Uttar Pradesh,Shrawasti,70,NA,NA
+Uttar Pradesh,Sonbhadra,47,IAP,LWE
+Uttarakhand,Pauri Garhwal,11,NA,NA
+Uttarakhand,Tehri Garhwal,12,NA,NA
+Uttarakhand,Haridwar,13,NA,NA
