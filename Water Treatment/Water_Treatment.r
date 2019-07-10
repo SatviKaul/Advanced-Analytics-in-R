@@ -1,4 +1,5 @@
 
+
 library(data.table)
 
 library(ggplot2)
@@ -30,7 +31,7 @@ rect.hclust(h_clust,k=4)
 pcmp <- princomp(scaled_wd)
 pred_pc <- predict(pcmp, newdata=scaled_wd)[,1:2]
 
-comp_dt <- cbind(as.data.table(pred_pc),cluster = as.factor(groups), Labels = water_data$V1)
+comp_dt <- cbind(as.data.table(pred_pc), cluster = as.factor(groups), Labels = water_data$V1)
 
 ggplot(comp_dt,aes(Comp.1,Comp.2))+ geom_point(aes(color = cluster),size=3)
 
